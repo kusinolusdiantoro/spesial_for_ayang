@@ -269,9 +269,9 @@ main .btn:hover {
 }
 
 /* Slide 18 */
-/* .swiper-slide--eighteen {
+.swiper-slide--eighteen {
   background: url("assets/Halaman 18.jpg") no-repeat 50% 50%/cover;
-} */
+}
 
 .swiper-slide-active {
   display: grid;
